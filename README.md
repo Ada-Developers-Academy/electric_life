@@ -1,6 +1,9 @@
-# js-playground
+# Electronic Life
 
-A simple template for JS projects using grunt, browserify, and mocha.
+An implementation of the Electronic Life project in chapter 7 of
+Eloquent JavaScript.
+
+[http://eloquentjavascript.net/07_elife.html](http://eloquentjavascript.net/07_elife.html)
 
 ## Install
 
@@ -10,6 +13,14 @@ $ git clone git@github.com:Ada-Developers-Academy/js-playground.git
 $ cd js-playground
 $ npm install
 ```
+
+## Run
+
+```
+$ grunt server
+```
+
+Then point your bowser to [http://localhost:3000/](http://localhost:3000/).
 
 ## Project Structure
 
